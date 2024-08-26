@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Lessons",
+      "slug": "beginner-guitar-lessons",
+      "description": "Learn the basics of playing the guitar, from chords to strumming patterns.",
+      "price": 39.99,
+      "instructor": "Carlos Santana",
+      "isFeatured": true,
+      "image": "guitar_lessons.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your journey with piano, covering basic notes and simple melodies.",
+      "price": 49.99,
+      "instructor": "Ludovico Einaudi",
+      "isFeatured": false,
+      "image": "piano_beginners.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Violin Techniques",
+      "slug": "advanced-violin-techniques",
+      "description": "Master advanced techniques for playing the violin.",
+      "price": 59.99,
+      "instructor": "Itzhak Perlman",
+      "isFeatured": true,
+      "image": "violin_advanced.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Learn to improvise in the jazz style, focusing on scales, modes, and phrasing.",
+      "price": 69.99,
+      "instructor": "Miles Davis",
+      "isFeatured": true,
+      "image": "jazz_improvisation.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create your own electronic music using popular software and production techniques.",
+      "price": 79.99,
+      "instructor": "Deadmau5",
+      "isFeatured": false,
+      "image": "electronic_music_production.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Songwriting Masterclass",
+      "slug": "songwriting-masterclass",
+      "description": "Learn the art of songwriting, covering lyrics, melody, and composition.",
+      "price": 89.99,
+      "instructor": "Taylor Swift",
+      "isFeatured": true,
+      "image": "songwriting_masterclass.jpg"
+    }
+  ]
+}
