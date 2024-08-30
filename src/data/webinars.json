@@ -1,0 +1,54 @@
+{
+  "webinars": [
+    {
+      "title": "Mastering Music Theory",
+      "description": "Dive deep into the fundamentals of music theory. This webinar covers everything from basic scales to advanced harmonic analysis, perfect for musicians looking to enhance their understanding.",
+      "isFeatured": true
+    },
+    {
+      "title": "Songwriting for Beginners",
+      "description": "Learn the art of songwriting from scratch. This webinar will guide you through the process of creating melodies, writing lyrics, and structuring your songs.",
+      "isFeatured": false
+    },
+    {
+      "title": "The Future of Music Production",
+      "description": "Explore the latest trends and technologies in music production. Industry experts share insights on how to stay ahead in the rapidly evolving world of music tech.",
+      "isFeatured": true
+    },
+    {
+      "title": "Jazz Improvisation Techniques",
+      "description": "Unlock the secrets of jazz improvisation with this comprehensive webinar. Learn how to create spontaneous solos that are both creative and musically coherent.",
+      "isFeatured": false
+    },
+    {
+      "title": "Building a Career in Music",
+      "description": "Get practical advice on how to build and sustain a successful career in the music industry. This webinar covers networking, branding, and the business side of music.",
+      "isFeatured": true
+    },
+    {
+      "title": "Music Production with Ableton Live",
+      "description": "Learn how to create, edit, and produce music using Ableton Live. This webinar covers essential tips and tricks to maximize your efficiency and creativity in music production.",
+      "isFeatured": false
+    },
+    {
+      "title": "Vocal Techniques for Singers",
+      "description": "Enhance your vocal abilities with professional techniques that improve your range, pitch, and control. This webinar is ideal for both beginners and experienced singers.",
+      "isFeatured": true
+    },
+    {
+      "title": "Classical Music Interpretation",
+      "description": "Gain insights into interpreting classical music pieces with a deeper understanding of historical context, phrasing, and stylistic nuances.",
+      "isFeatured": false
+    },
+    {
+      "title": "Electronic Music Composition",
+      "description": "Explore the world of electronic music composition. Learn how to use synthesizers, drum machines, and software to create original electronic music.",
+      "isFeatured": true
+    },
+    {
+      "title": "Understanding Music Licensing",
+      "description": "Get to grips with the complexities of music licensing. This webinar provides essential knowledge for artists looking to protect and monetize their music legally.",
+      "isFeatured": false
+    }
+  ]
+}
