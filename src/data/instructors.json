@@ -1,0 +1,40 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "designation": "Lead Guitar Instructor",
+      "image": "https://xsgames.co/randomusers/assets/avatars/male/17.jpg"
+    },
+    {
+      "id": 2,
+      "name": "David Brown",
+      "designation": "Vocal Coach",
+      "image": "https://xsgames.co/randomusers/assets/avatars/male/24.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "designation": "Piano Instructor",
+      "image": "https://xsgames.co/randomusers/assets/avatars/male/74.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sophia Martinez",
+      "designation": "Violin Instructor",
+      "image": "https://xsgames.co/randomusers/assets/avatars/female/6.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Emily Clark",
+      "designation": "Music Production Expert",
+      "image": "https://xsgames.co/randomusers/assets/avatars/female/20.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Wilson",
+      "designation": "Drum Instructor",
+      "image": "https://xsgames.co/randomusers/assets/avatars/female/22.jpg"
+    }
+  ]
+}
