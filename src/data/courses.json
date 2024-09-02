@@ -59,6 +59,46 @@
       "instructor": "Taylor Swift",
       "isFeatured": true,
       "image": "/assets/songwriting.png"
+    },
+    {
+      "id": 7,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand the fundamentals of music theory, including scales, chords, and harmony.",
+      "price": 29.99,
+      "instructor": "Hans Zimmer",
+      "isFeatured": false,
+      "image": "/assets/music_theory.png"
+    },
+    {
+      "id": 8,
+      "title": "Classical Guitar Mastery",
+      "slug": "classical-guitar-mastery",
+      "description": "Explore the world of classical guitar with advanced techniques and compositions.",
+      "price": 64.99,
+      "instructor": "Andrés Segovia",
+      "isFeatured": false,
+      "image": "/assets/classical_guitar.png"
+    },
+    {
+      "id": 9,
+      "title": "Introduction to Drumming",
+      "slug": "introduction-to-drumming",
+      "description": "Get started with drumming, covering basic rhythms and hand techniques.",
+      "price": 34.99,
+      "instructor": "Neil Peart",
+      "isFeatured": false,
+      "image": "/assets/drumming.png"
+    },
+    {
+      "id": 10,
+      "title": "Music Production with Logic Pro",
+      "slug": "music-production-with-logic-pro",
+      "description": "Learn to produce music using Logic Pro, from recording to mixing and mastering.",
+      "price": 74.99,
+      "instructor": "Mark Ronson",
+      "isFeatured": false,
+      "image": "/assets/logic_pro.png"
     }
   ]
 }
