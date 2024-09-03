@@ -19,7 +19,7 @@ const page = () => {
     ),
   }));
   return (
-    <div className="mt-20 p-4 relative z-10 w-full text-center">
+    <div className="bg-neutral-100 dark:bg-gray-900 mt-20 p-4 relative z-10 w-full text-center">
       <h1 className="mt-20 md:mt-0 font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-500 text-4xl md:text-7xl">
         All courses
       </h1>

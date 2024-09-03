@@ -1,6 +1,6 @@
 "use client";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
-import Image from "next/image";
+
 const content = [
   {
     title: "Expert Instructors",

@@ -15,7 +15,7 @@ const FeaturedCard: React.FC<CardProps> = ({ course }) => {
         {course.description}
       </p>
       <Link
-        className="mt-4 border rounded-md p-2 hover:bg-white hover:text-black"
+        className="mt-4 border rounded-md p-2 bg-black text-white dark:bg-white dark:text-black hover:invert"
         href={`/courses/${course.slug}`}
       >
         Learn more
