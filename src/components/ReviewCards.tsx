@@ -36,8 +36,8 @@ const reviews = [
 
 const ReviewCards = () => {
   return (
-    <div className="h-[40rem] w-full bg-white bg-dot-black dark:bg-black dark:bg-dot-white/[0.3]  relative flex flex-col items-center justify-center overflow-hidden ">
-      <h2 className="text-black dark:text-white text-5xl font-bold text-center mb-5">
+    <div className="h-[40rem] w-full bg-neutral-100 bg-dot-black dark:bg-gray-900 dark:bg-dot-white/[0.3]  relative flex flex-col items-center justify-center overflow-hidden ">
+      <h2 className="text-purple-700 text-5xl font-bold text-center mb-5">
         Reviews
       </h2>
       <div className="flex justify-center w-full overflow-hidden px-4 sm:px-6 lg:px-8 ">

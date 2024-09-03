@@ -10,10 +10,10 @@ const Instructors = () => {
   return (
     <AuroraBackground>
       <div className="text-center">
-        <h2 className="text-8xl text-white/80 font-semibold tracking-wide">
+        <h2 className="text-8xl text-black dark:text-white/80 font-semibold tracking-wide">
           Our Instructors
         </h2>
-        <p className="mt-4 md:text-lg text-neutral-200 mx-w-lg mx-auto">
+        <p className="mt-4 md:text-lg text-gray-500 dark:text-neutral-200 mx-w-lg mx-auto">
           At our music academy, we believe that the right teacher can make all
           the difference in your learning journey. That’s why we’ve gathered a
           team of passionate and experienced instructors who are dedicated to

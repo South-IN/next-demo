@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
-
+import { cookies } from "next/headers";
+import { CookiesProvider } from "next-client-cookies/server";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -15,14 +16,19 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const cookieStore = cookies();
+  const themeCookie = cookieStore.get("theme");
+  const initTheme = themeCookie?.value || "light";
   return (
-    <html lang="en" className="dark">
-      <body className={inter.className}>
-        <div className="relative w-full flex items-center justify-center">
-          <Navbar />
-        </div>
-        {children}
-      </body>
+    <html lang="en" className={initTheme}>
+      <CookiesProvider>
+        <body className={`${inter.className} bg-neutral-100 dark:bg-gray-900`}>
+          <div className="bg-white relative w-full flex items-center justify-center">
+            <Navbar />
+          </div>
+          {children}
+        </body>
+      </CookiesProvider>
     </html>
   );
 }
